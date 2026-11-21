@@ -13,6 +13,7 @@ def main():
     data = get_schedule(group)
     
     if data:
+        print(data)
         print_schedule(data)
         
 
