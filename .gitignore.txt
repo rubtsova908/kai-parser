@@ -1,1 +1,4 @@
 __pycache__/
+*.pyc
+groups_test.json
+test_api.py
